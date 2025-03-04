@@ -1,0 +1,4 @@
+{
+    "extends": "expo-module-scripts/tsconfig.base"
+  }
+  
